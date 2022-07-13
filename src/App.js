@@ -66,15 +66,15 @@ const App = () => {
 
         <div className='section4'>
           <div>
-          <i class="fa-solid fa-phone"></i> <span>Toll Free <b>1800 200 4123</b> </span>
+          <i className="fa-solid fa-phone"></i> <span>Toll Free <b>1800 200 4123</b> </span>
           </div>
 
           <div>
-            <i class="fa-brands fa-facebook"></i> <a href='#'>www.facebook.com/cripumps</a>
+            <i className="fa-brands fa-facebook"></i> <a href='#'>www.facebook.com/cripumps</a>
           </div>
 
           <div>
-          <i class="fa-brands fa-google"></i> <a href='#'>crigroup.com</a>
+          <i className="fa-brands fa-google"></i> <a href='#'>crigroup.com</a>
           </div>
         </div>
       </section>
